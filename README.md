@@ -26,6 +26,5 @@ $Storage->clear();
 
 
 ## Notice $destroytime
-```
+
 If you don't extend the time, the folder and the file inside will be deleted automatically when the class runs within 12 hours.
-```
